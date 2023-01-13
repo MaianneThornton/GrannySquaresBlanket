@@ -8,6 +8,7 @@ body {
   background-color: gold;
   display: flex;
   flex-direction: column;
+  overflow-x: scroll;
 }
 h1 {
   text-align: center;
