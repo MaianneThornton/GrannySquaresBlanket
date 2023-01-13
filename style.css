@@ -54,10 +54,3 @@ h1 {
     align-items: center;
   }
 }
-@media (max-width: 375px) {
-  body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-}
